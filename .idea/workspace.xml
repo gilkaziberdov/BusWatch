@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="979a53f8-5814-4eda-b837-c16f7abf5933" name="Default" comment="add android">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/android.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/BusWatch-debug-unaligned.apk" afterPath="$PROJECT_DIR$/platforms/android/ant-build/BusWatch-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/BusWatch-debug.apk" afterPath="$PROJECT_DIR$/platforms/android/ant-build/BusWatch-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/BusWatch.ap_" afterPath="$PROJECT_DIR$/platforms/android/ant-build/BusWatch.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/build.prop" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/build.prop" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/build.prop" afterPath="$PROJECT_DIR$/platforms/android/ant-build/build.prop" />
+    <list default="true" id="979a53f8-5814-4eda-b837-c16f7abf5933" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BusWatch.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="979a53f8-5814-4eda-b837-c16f7abf5933" time="1398139163989" ignored="false" />
     <file path="/index.js" changelist="979a53f8-5814-4eda-b837-c16f7abf5933" time="1398138691884" ignored="false" />
-    <file path="/Dummy.txt" changelist="979a53f8-5814-4eda-b837-c16f7abf5933" time="1398141864642" ignored="false" />
+    <file path="/Dummy.txt" changelist="979a53f8-5814-4eda-b837-c16f7abf5933" time="1398217761635" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +245,11 @@
       <created>1398141712139</created>
       <updated>1398141712139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add android">
+      <created>1398217764402</created>
+      <updated>1398217764402</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
